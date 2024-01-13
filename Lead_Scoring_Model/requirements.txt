@@ -1,0 +1,11 @@
+pandas
+numpy
+matplotlib
+seaborn
+visualizer 
+catboost
+xgboost
+missingno
+fancyimpute
+nbformat
+plotly
